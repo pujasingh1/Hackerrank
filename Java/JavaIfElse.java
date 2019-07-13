@@ -31,3 +31,5 @@ public class Solution {
         scanner.close();
     }
 }
+
+// Hi, I tried editing it
